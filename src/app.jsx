@@ -7,7 +7,9 @@ class App extends Component {
     }
     render() {
         return (
-            <div>OUR DYSFUNCTIONAL COHORT</div>
+            <div>OUR DYSFUNCTIONAL COHORT
+                <p>yarp</p>
+            </div>
         )
     }
 }
